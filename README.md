@@ -32,3 +32,4 @@ Tesseract is a character recognition engine that can read scanned text and conve
 ![Screenshot 2024-07-11 145129](https://github.com/devasish27/OCR_language/assets/126960187/5bfd99fb-c262-4c82-ab3e-d9b6ff31a723)
 
 ## Convert into Telugu Language
+![image](https://github.com/user-attachments/assets/d6a70ccb-363f-42e1-bc51-cea3cd7a3201)
